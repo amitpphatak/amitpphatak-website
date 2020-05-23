@@ -1,1 +1,1 @@
-Sitemap: http://amitpphatak.com/sitemap.xml
+Sitemap: https://amitpphatak.com/sitemap.xml
