@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://amitpphatak.com/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://amitpphatak.com/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
+<loc>https://amitpphatak.com/machine_learning/scikit-learn/logistic_regression/knn/svm/decision_tree/random_forest/adaboost/naive_bayes/quadratic_discriminant_analysis/neural_network/gaussian_process/breast_cancer_detection/structured_data/uci_dataset/2020/05/31/Breast-Cancer-Detection.html</loc>
+<lastmod>2020-05-31T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://amitpphatak.com/about/</loc>
