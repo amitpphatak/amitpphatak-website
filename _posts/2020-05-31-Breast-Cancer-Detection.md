@@ -1,5 +1,5 @@
 ---
-keywords: fastai
+keywords: machine_learning
 title: Breast Cancer Detection
 categories: [machine_learning, scikit-learn, logistic_regression, kNN, SVM, decision_tree, random_forest, adaboost, naive_bayes, quadratic_discriminant_analysis, neural_network, gaussian_process, breast_cancer_detection, structured_data, uci_dataset]
 nb_path: _notebooks/2020-05-31-Breast Cancer Detection.ipynb
